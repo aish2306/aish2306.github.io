@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: /subtitle: 
+permalink: /subtitle: Early HCI Researcher
 
 
 profile:
